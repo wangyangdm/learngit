@@ -51,3 +51,4 @@ HEAD指向的版本就是当前版本，因此，Git允许我们在版本的历�
 
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
+Git has a mutable index called stage.
